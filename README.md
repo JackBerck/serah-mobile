@@ -12,3 +12,6 @@ Shift Akhir: Shift B
 
 ## Demo Aplikasi Tugas 2 Pertemuan 3
 ![Demo Aplikasi Tugas 2 Pertemuan 3](docs/tugas-2.gif)
+
+## Demo Aplikasi Tugas 3 Pertemuan 4
+![Demo Aplikasi Tugas 3 Pertemuan 4](docs/tugas-3.gif)
