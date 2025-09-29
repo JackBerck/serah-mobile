@@ -111,6 +111,10 @@
                         <include
                             android:id="@+id/layout_ig"
                             layout="@layout/layout_menu" />
+
+                        <include
+                            android:id="@+id/layout_book"
+                            layout="@layout/layout_menu" />
                     </LinearLayout>
 
                     <!-- Tombol Back -->
